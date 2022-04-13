@@ -1,5 +1,5 @@
 # lego star wars the skywalker saga credits converter
-This program converts a give text into the right format to be shown in the credits screen.
+This program converts a text into the right format to be shown in the credits screen.
 I wanted to have the Bee Movie Script as credits so i wrote this script to do it for me, 
 maybe someone else also finds it useful.
 
